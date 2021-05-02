@@ -1,0 +1,22 @@
+bettersocial
+
+| license:
+this project uses GPL-3.0 and GPL-3.0-only
+bettersocial/LICENSE
+
+| description:
+bettersocial is an application intended to merge social feeds from various platforms into one.
+tl;dr : app to view facebook and twitter's feed in one app.
+
+| upcoming features:
+- free, i mean it. not the free ads app but the ads free app
+- no ads (yay! no more "personalized experience bs")
+- silky smooth ui and custom themes from contributors or you
+- might add cross messaging (twitter facebook messages in one app!?!)
+- open source (so you know i won't steal your passwords :wink:)
+
+| progress:
+bettersocial is still in early stages.
+the web app is my priority. once the web app is done i will bridge it to mobile.
+
+| discord: discord.io/jgabt
